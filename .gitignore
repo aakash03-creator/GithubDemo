@@ -1,0 +1,4 @@
+*.log
+/check/
+demo/check
+
